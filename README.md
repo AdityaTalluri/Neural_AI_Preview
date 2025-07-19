@@ -1,6 +1,6 @@
 # 🤖 Neural AI (Preview)
 
-Neural AI is a conversational assistant powered by Google's Gemini API, designed to be modest, smart, kind, and fun — a true Gen-Millennial AI friend. This preview version offers real-time interaction through your terminal.
+I have made a cool AI using Google Gemini (google.generativeai as genai) and have made it a very fun, cool-to-interact-with kind of a bot! Below I will be uploading all the further details:
 
 ---
 
